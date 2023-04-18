@@ -8,7 +8,7 @@ I'm the developer behind the below web apps.
 
 [Snaptweets](https://snaptweets.com) - Quick tool to create beautiful images from tweets
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/abhilashbolla?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=Abhilash Bolla)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abhilashbolla?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=abhilashbolla)
 
 
 🧰 Toolbox

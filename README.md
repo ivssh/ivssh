@@ -25,6 +25,6 @@ I'm the developer behind the below web apps.
 
 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivssh&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivssh&hide=java&theme=radical)](https://github.com/ivssh/github-readme-stats)
 
-[![Bolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivssh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Bolla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivssh&theme=radical)](https://github.com/ivssh/github-readme-stats)

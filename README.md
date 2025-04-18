@@ -2,12 +2,6 @@
 
 I'm the developer behind the below web apps. 
 
-[Pattern.Monster](https://pattern.monster) - Simple and customizable SVG pattern generator
-
-[Periodic-Table.io](https://periodic-table.io) - Responsive periodic table with detailed properties for individual elements
-
-[Snaptweets](https://snaptweets.com) - Quick tool to create beautiful images from tweets
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhilashbolla?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=abhilashbolla)
 
 
